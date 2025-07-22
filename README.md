@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Osama!
+# 👋 Hi there, I'm Osama Alsharabi!
 
 🎯 **Flutter Developer | Mobile App Enthusiast | Clean Code Advocate**
 
